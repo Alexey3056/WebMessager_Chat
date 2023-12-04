@@ -1,0 +1,36 @@
+{
+    "id": "chat1",
+    "title": "Chat between alextest and alextest2",
+    "description": "A private chat.",
+    "private": true,
+    "members": [
+        "lextest",
+        "alextest2"
+    ],
+    "messages": [
+        {
+            "author": "Day",
+            "time": "00:00",
+            "date": "2023-12-04",
+            "content": "2023-12-04"
+        },
+        {
+            "author": "Server",
+            "time": "15:49",
+            "date": "2023-12-04",
+            "content": "Chat created at 15:49 by @lextest."
+        },
+        {
+            "author": "alextest2",
+            "time": "15:50",
+            "date": "2023-12-04",
+            "content": "epam project"
+        },
+        {
+            "author": "alextest2",
+            "time": "15:50",
+            "date": "2023-12-04",
+            "content": "abcd"
+        }
+    ]
+}

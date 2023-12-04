@@ -1,0 +1,3 @@
+chat1~Chat between alextest and alextest2
+chat2~Chat between alextest2 and alextest
+chat3~epam

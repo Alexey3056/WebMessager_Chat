@@ -1,0 +1,42 @@
+{
+    "id": "chat3",
+    "title": "epam",
+    "description": "epam project\n",
+    "private": false,
+    "members": [
+        "alextest2",
+        "alextest"
+    ],
+    "messages": [
+        {
+            "author": "Day",
+            "time": "00:00",
+            "date": "2023-12-04",
+            "content": "2023-12-04"
+        },
+        {
+            "author": "Server",
+            "time": "15:54",
+            "date": "2023-12-04",
+            "content": "Chat created at 15:54 by @alextest2."
+        },
+        {
+            "author": "Server",
+            "time": "15:54",
+            "date": "2023-12-04",
+            "content": "@alextest joined the chat."
+        },
+        {
+            "author": "alextest",
+            "time": "15:55",
+            "date": "2023-12-04",
+            "content": "abcd"
+        },
+        {
+            "author": "alextest2",
+            "time": "15:55",
+            "date": "2023-12-04",
+            "content": "epam"
+        }
+    ]
+}
